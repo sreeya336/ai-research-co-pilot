@@ -38,8 +38,7 @@ It uses a Retrieval-Augmented Generation (RAG) pipeline built with Hugging Face 
 | Language               | Python                                              |
 
 ---
-
-<img src="https://github.com/sreeya336/ai-research-co-pilot/blob/main/assets/coding_cat_sticker.png?raw=true" width="250" alt="Cute Coding Cat Sticker"/>
+<img src="https://raw.githubusercontent.com/sreeya336/ai-research-co-pilot/main/assets/coding_cat_sticker.png" width="250" alt="Cute Coding Cat Sticker">
 
 
 ## How to Run Locally
