@@ -39,6 +39,9 @@ It uses a Retrieval-Augmented Generation (RAG) pipeline built with Hugging Face 
 
 ---
 
+<img src="https://github.com/sreeya336/ai-research-co-pilot/blob/main/assets/coding_cat_sticker.png?raw=true" width="250" alt="Cute Coding Cat Sticker"/>
+
+
 ## How to Run Locally
 
 1. Clone the repository:
