@@ -1,0 +1,1 @@
+transformerslangchainsentence-transformersfaiss-cpugradiopypdf2
